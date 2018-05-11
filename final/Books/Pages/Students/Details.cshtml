@@ -1,0 +1,37 @@
+@page
+@model Books.Pages.Students.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Book</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Student.Title)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Student.Title)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Student.Author)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Student.Author)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Student.ISBN)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Student.ISBN)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Student.ISBN">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

@@ -1,0 +1,22 @@
+C:\Users\Rayne\Documents\561final\561-master\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\Books.csprojResolveAssemblyReference.cache
+C:\Users\Rayne\Documents\561final\561-master\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\Books.csproj.CoreCompileInputs.cache
+C:\Users\Rayne\Documents\561final\561-master\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\Books.AssemblyInfoInputs.cache
+C:\Users\Rayne\Documents\561final\561-master\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\Books.AssemblyInfo.cs
+C:\Users\Rayne\Documents\561final\561-master\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\Books.deps.json
+C:\Users\Rayne\Documents\561final\561-master\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\Books.runtimeconfig.json
+C:\Users\Rayne\Documents\561final\561-master\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\Books.runtimeconfig.dev.json
+C:\Users\Rayne\Documents\561final\561-master\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\Books.dll
+C:\Users\Rayne\Documents\561final\561-master\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\Books.pdb
+C:\Users\Rayne\Documents\561final\561-master\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\Books.dll
+C:\Users\Rayne\Documents\561final\561-master\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\Books.pdb
+C:\Users\Rayne\Documents\561final\561-master - Copy\ContosoUniversity\Books\bin\Debug\netcoreapp2.0\Books.deps.json
+C:\Users\Rayne\Documents\561final\561-master - Copy\ContosoUniversity\Books\bin\Debug\netcoreapp2.0\Books.runtimeconfig.json
+C:\Users\Rayne\Documents\561final\561-master - Copy\ContosoUniversity\Books\bin\Debug\netcoreapp2.0\Books.runtimeconfig.dev.json
+C:\Users\Rayne\Documents\561final\561-master - Copy\ContosoUniversity\Books\bin\Debug\netcoreapp2.0\Books.dll
+C:\Users\Rayne\Documents\561final\561-master - Copy\ContosoUniversity\Books\bin\Debug\netcoreapp2.0\Books.pdb
+C:\Users\Rayne\Documents\561final\561-master - Copy\ContosoUniversity\Books\obj\Debug\netcoreapp2.0\Books.csprojResolveAssemblyReference.cache
+C:\Users\Rayne\Documents\561final\561-master - Copy\ContosoUniversity\Books\obj\Debug\netcoreapp2.0\Books.csproj.CoreCompileInputs.cache
+C:\Users\Rayne\Documents\561final\561-master - Copy\ContosoUniversity\Books\obj\Debug\netcoreapp2.0\Books.AssemblyInfoInputs.cache
+C:\Users\Rayne\Documents\561final\561-master - Copy\ContosoUniversity\Books\obj\Debug\netcoreapp2.0\Books.AssemblyInfo.cs
+C:\Users\Rayne\Documents\561final\561-master - Copy\ContosoUniversity\Books\obj\Debug\netcoreapp2.0\Books.dll
+C:\Users\Rayne\Documents\561final\561-master - Copy\ContosoUniversity\Books\obj\Debug\netcoreapp2.0\Books.pdb
